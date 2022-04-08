@@ -1,0 +1,36 @@
+html{
+    background-color: rgb(192, 192, 192);
+}
+.task-desc{
+    border: none;
+    border-radius: 10px;
+    background-color:rgb(213, 213, 213); 
+    padding: 2px 10px;
+}
+#linee {
+    text-decoration: line-through;
+}
+
+#inputTask{
+    min-width: 550px;
+    border: none;
+    background-color: rgb(213, 213, 213);
+    border-radius: 10px;
+    padding: 2px 15px;
+}
+
+.edit-btn{
+    border: none;
+    background:none;
+    color: rgb(74, 167, 3);
+    font-size: smaller;
+    font-weight: bolder;
+}
+.dlt-btn{
+    border: none;
+    background:none;
+    color: rgb(167, 3, 8);
+    font-size: smaller;
+    font-weight: bolder;
+}
+
