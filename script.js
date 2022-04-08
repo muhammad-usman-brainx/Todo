@@ -65,10 +65,7 @@ inputField.addEventListener("keyup",(event)=>{
             })
 
             dlt.addEventListener('click',()=>{
-                if(check.checked){
-                    taskContainer.removeChild(divv);
-                }
-
+                taskContainer.removeChild(divv);
             })
 
     }
